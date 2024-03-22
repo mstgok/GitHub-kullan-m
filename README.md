@@ -1,2 +1,2 @@
-# GitHub-kullan-m
-Github platformunun kullanımını göstermek amacıyla oluşturulan bir depo.
+# GitHub kullanımını
+Github platformunun kullanımını denemek amacıyla oluşturulan bir depo.
